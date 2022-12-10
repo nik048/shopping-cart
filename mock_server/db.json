@@ -1,0 +1,25 @@
+{
+    "products": [
+        {   
+            "id": 1,
+            "title": "Apple",
+            "price": "Rs. 70k"
+        },
+        {
+            "id": 2,
+            "title": "Samsung",
+            "price": "Rs. 50k"
+        },
+        {
+            "id": 3,
+            "title": "Nokia",
+            "price": "Rs. 7k"
+        },
+        {
+            "id": 4,
+            "title": "Sony",
+            "price": "Rs. 70k"
+        }
+        
+    ]
+}

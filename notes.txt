@@ -1,0 +1,33 @@
+// component lifecycle
+// 1. mounting
+// 2. updating x n
+// 3. unmounting 
+
+// Virtual DOM?
+
+// two vdoms
+// currentVDom -> exact representation of browser DOM
+// newVDom -> updated representation
+
+let currentVDom = {
+    kind of a json representation of DOM
+}
+
+newVDom = {
+
+}
+
+// react maintains the old and new dom in memory
+// and applies the changes in b/w the doms
+
+async await (on top of promisses)
+
+async function makeApiCall(){
+    
+}
+
+By default a component re renders:
+1. it's internal state changes
+2. it's props changes
+3. if it's subscribed to a context and value of context changes
+4. Parent rerender(all children rerender)
